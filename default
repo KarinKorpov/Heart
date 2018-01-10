@@ -1,4 +1,0 @@
-{
-  llSay(0,"Hello");
-  llOwnerSay("Hello");
-}
